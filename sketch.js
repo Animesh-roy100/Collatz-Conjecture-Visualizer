@@ -1,6 +1,6 @@
 let start = 1;
 let reset = start;
-let angle = 0.13; // changed from 0.15
+let angle = 0.13;
 let inc = 300;
 let len;
 let sw;
